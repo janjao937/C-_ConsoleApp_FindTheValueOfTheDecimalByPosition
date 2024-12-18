@@ -1,1 +1,3 @@
-# C-_ConsoleApp_FindTheValueOfTheDecimalByPosition
+# CLI
+## dotnet build .
+## dotnet run .
